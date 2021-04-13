@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bkr1
+- 👀 I’m interested in ECH
+- 🌱 I’m currently learning PY,PHP,VS.NET
+- 📫 How to reach me @h.r7 
