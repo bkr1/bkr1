@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @bkr1
-- 👀 I’m interested in ECH
-- 🌱 I’m currently learning PY,PHP,VS.NET
+- 👀 I’m interested in sql , xss , lif ....
+- 🌱 I’m currently learning bug bounty
 - 📫 How to reach me @h.r7 
